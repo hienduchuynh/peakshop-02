@@ -80,31 +80,18 @@
             "desktop_content_position": "bottom-left",
             "desktop_content_alignment": "center"
           }
-        },
-        "014b3800-b0ab-448d-b4ce-5248c1b568ca": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/collection-3.jpg",
-            "title": "Shoes",
-            "link_label": "",
-            "link": "shopify:\/\/collections\/shoes",
-            "link_style": "link",
-            "desktop_content_position": "bottom-left",
-            "desktop_content_alignment": "center"
-          }
         }
       },
       "block_order": [
         "template--17016615010579__21d4cf4d-5f90-4180-9277-6afc709981dd-1669167040bd7eb463-0",
-        "template--17016615010579__21d4cf4d-5f90-4180-9277-6afc709981dd-1669167040bd7eb463-1",
-        "014b3800-b0ab-448d-b4ce-5248c1b568ca"
+        "template--17016615010579__21d4cf4d-5f90-4180-9277-6afc709981dd-1669167040bd7eb463-1"
       ],
       "settings": {
         "title": "",
         "heading_size": "h5",
         "layout": "grid--gapless",
         "item_ratio": "169",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 0,
